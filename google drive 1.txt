@@ -1,0 +1,31 @@
+
+Historia
+Google Docs se originó de dos productos separados, Writely y Google Spreadsheets. Writely era un procesador de texto individual en red creado por la compañía de software Upstartle, el cual fue lanzado en agosto de 2005. Sus características originales incluían un sitio para la edición de textos en colaboración, además de controles para su acceso. Los menús, los atajos en el teclado y los cuadros de diálogo eran presentados de una manera muy similar a la que los usuarios suelen esperar en un procesador de texto tradicional, como OpenOffice.org o Microsoft Office.
+
+En el momento de la adquisición, Upstartle tenía 4 empleados. Writely cerró los registros a sus servicios hasta que estuviese completo el movimiento a los servidores de Google. En agosto de 2006, Writely envió invitaciones de cuentas a todos aquellos que hubieron requerido ser ubicados en una lista de espera y luego se volvió disponible al público el 23 de agosto. Writely continuó manteniendo su propio sistema de usuarios hasta el 19 de septiembre de 2006 cuando fue integrado con Google Accounts.
+
+Writely se ejecutaba originalmente sobre tecnología Microsoft ASP.NET, la cual usa Microsoft Windows. Desde julio de 2006, los servidores de Writely funcionan bajo el sistema operativo Linux.
+
+Mientras tanto, Google desarrolló Google Spreadsheets introduciendo muchas de las bondades encontradas hoy en Google Docs. Google anunció Spreadsheets el 6 de junio de 2006 e inicialmente lo puso a disposición solo de una cantidad limitada de usuarios, según orden de llegada. El test limitado fue reemplazado después con una versión beta disponible para todos los titulares de una cuenta de Google.
+
+En febrero de 2007 Google Docs fue liberado para todos los usuarios de Google Apps.
+En junio del mismo año Google cambió la página principal para incluir carpetas en vez de etiquetas organizadas en una barra lateral.
+El 17 de septiembre del 2007 Google lanzó su programa de presentación para Google Docs.
+A partir de enero del 2010, Google ha empezado a aceptar cualquier archivo subido en Google Docs.3?
+Cambio a Google Drive
+El 24 de abril de 2012, Google Docs cambió su denominación por Google Drive, cambiando su dirección de enlace de docs.google.com por drive.google.com entre otras cualidades. Cada usuario cuenta con 15 GB de memoria gratuitos para almacenar sus archivos (un aumento importante para los 1 GB previos de Google Docs), ampliables mediante pago. Está disponible para computadoras y portátiles Mac, Android, iPhone y iPad.
+Con el lanzamiento de Google Drive, Google aumentó el espacio de almacenamiento de Gmail a 10 GB; hoy en día dicho espacio está unificado a 15 GB y se comparte entre los dos servicios a libre elección del usuario.
+
+Las novedades destacadas en su lanzamiento fueron:
+Ampliación del almacenamiento gratuito de 1 GB a 5 GB, y posteriormente 15 GB.
+Capacidad de sincronizar archivos y documentos con el ordenador, y visualización mejorada de documentos de Google fuera de línea.
+Cambios en la barra lateral de navegación.
+Frente al anterior sistema de visualización fuera de línea denominado «Google Docs Sin Conexión», el nuevo sistema de Google Drive permite mover y eliminar documentos de Google sin estar conectado a Internet. Al conectarse, Google Drive refleja estos cambios en la nube. Incluso es posible recuperar documentos Google de la papelera de la PC.
+
+El sistema de sincronización de archivos permite al usuario:
+Editar sus archivos en el ordenador y tenerlos disponibles en la nube.
+Contar con respaldo automático.
+Contar con un control de versiones, pudiendo acceder a versiones anteriores de un archivo después de ser modificado.
+Realizar subidas o bajadas masivas de archivos, respetando la estructura de carpetas.
+Google Drive no es superior a otros sistemas de respaldo de archivos como iDrive, o de sincronización como Dropbox, aunque integra sin conflictos todas las herramientas en un solo producto.
+A finales de 2017, según los creadores de Google, Larry Page y Serguéi Brin, ha informado qué se pondrá el límite de 15 GB al día, superando los límites de cuota de transferencia, así qué es necesario tener una Cuenta de Google para quitar ese límite.
