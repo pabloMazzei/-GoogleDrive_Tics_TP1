@@ -1,0 +1,17 @@
+Inicialmente Google Docs ofrecía 1 GB de almacenamiento gratis, el 24 de abril de 2012 Google presentó Google Drive que ofrecía 5 GB de almacenamiento gratis, además de presentar Drive, Google hizo otros cambios en el servicio incluyendo el aumento de capacidad gratis de Gmail de 7 GB a 10 GB.
+
+Originalmente Gmail, Google Docs y Picasa contaban por separado el almacenamiento gratuito de cada plataforma y el almacenamiento otorgado por estos planes se compartía. Poco a poco Google fue unificando el almacenamiento de los usuarios y actualmente todo el espacio es conjunto sea gratis o pagado.
+
+El 13 de marzo de 2017, Google cambió los precios de los planes otra vez reduciéndolos en un drástico 80 %, resultando esto en precios mucho más baratos que los de su competidor directo, Dropbox.
+
+Seguridad
+El acceso seguro vía SSL no está habilitado por defecto, pero existe la opción de acceder por HTTPS a Google Docs y trabajar de manera segura.
+
+La privacidad de documentos sensibles puede ser comprometida por el hecho de que mucha gente está autenticada en sus cuentas de Google de manera casi permanente (las cuentas Google se utilizan para la gran variedad de servicios ofrecidos por Google como correo electrónico, calendario, etcétera). A pesar de que este login unificado tiene claras ventajas, representa un potencial riesgo para la seguridad mientras el acceso a Google Docs no requiera comprobación de contraseña.
+
+Aplicaciones integradas
+Documentos de Google, Presentaciones de Google y Hojas de cálculo de Google ?oficialmente Google Docs, Slides, Sheets? es un programa gratuito basado en Web para crear documentos en línea con la posibilidad de colaborar en grupo. Incluye procesador de textos, Hoja de cálculo, programa de presentación básico, creador de dibujos y editor de formularios destinados a encuestas. Google Docs junto con Gmail, Google Calendar y Google Talk; el 7 de julio de 2009, dejaron su calidad de Beta y pasaron a ser productos terminados. A partir de enero del 2010, Google empezó a aceptar cualquier archivo en Google Docs, entrando al negocio del almacenamiento en línea con un máximo de 1 GB (con expansiones por costos adicionales) y preparando el camino para Google Chrome OS.3? El 24 de abril de 2012 Google Docs cambió su denominación a Google Drive, incorporando la capacidad de sincronizar archivos con la PC, y aumentando la cuota de almacenamiento gratuito a 5 GB.
+
+Recientemente Google Docs agregó nuevas funciones inteligentes e intregación con Slack. Las nuevas características del grupo de aplicaciones están destinadas a ayudar a ahorrar tiempo, puesto que aprovechan integraciones con herramientas de terceros y además, utilizan el aprendizaje automático para simplificar y hacer más rápido el ritmo de trabajo.
+
+Gracias a esta actualización, ahora Docs será capaz de sugerir acciones a diferentes elementos de manera inteligente. La nueva función de tareas sugeridas se activará si Documentos detecta el nombre o dirección de correo de alguien con acceso al archivo y, así mismo, los Formularios de Google pueden predecir el tipo de pregunta que estás haciendo y a partir de esto sugerir posibles respuestas. Además, Google ha añadido varios comandos nuevos de voz que permiten añadir formato a documentos sin tener que hacer clic.6?
