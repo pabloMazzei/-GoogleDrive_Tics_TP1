@@ -1,0 +1,18 @@
+En primer lugar, todas las conexiones a Google Drive se cifran mediante el protocolo de transporte SSL, no importa si accedemos desde el
+navegador web, las aplicaciones de escritorio o las móviles.
+
+Una vez alojados en los servidores de Google, todos los datos son cifrados, y aunque los de Mountain View no son muy dados a pregonar los
+algoritmos y configuraciones que utilizan, se entiende que cumplen con los estándares que marca la industria.
+
+De hecho, la reconvertida aplicación de Google Docs para Android, ahora Google Drive, viene configurada por defecto para cifrar también
+los documentos sin conexión que se almacenan en la memoria del teléfono, además de ofrecer la opción de descifrado de flujo -o cifrado de
+stream-, suponemos para facilitar el uso del servicio en modo colaborativo o acelerar el acceso a los contenidos.
+
+Google drive maneja una seguridad de cifrado SSL
+Se usan certificados X.509 y por lo tanto criptografía asimétrica para autentificar a la contraparte
+con quien se están comunicando,2​ y para intercambiar una llave simétrica. Esta sesión es luego usada para cifrar el flujo de datos 
+entre las partes. Esto permite la confidencialidad del dato/mensaje, códigos de autenticación de mensajes para integridad y como
+un producto lateral, autenticación del mensaje. Varias versiones del protocolo están en aplicaciones ampliamente utilizadas como
+navegación web, correo electrónico, fax por Internet, mensajería instantánea y voz-sobre-IP (VoIP). Una propiedad importante en 
+este contexto es forward secrecy, para que la clave de corta vida de la sesión no pueda ser descubierta a partir de la clave asimétrica
+de largo plazo
