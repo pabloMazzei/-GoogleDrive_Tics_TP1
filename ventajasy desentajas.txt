@@ -4,10 +4,11 @@ Puedes cargar y descargar archivos e información en la red.
 Espacio de hasta 1 gigabyte de todo tipo de ficheros.
 Traductor incluido con 53 idiomas.
 No dependes de una computadora, ya que todo lo tienes en tu cuenta de correo en internet.
+Puedes editar archivos o verlos sin la necesidad de estar conectado a la red.
 
 Desventajas:
 Las personas pueden ver las paginas que utilizas.
 El usuario no es seguro si no creas una buena contraseña para protegerlo.
 Si el documento tienen varios editores o colaboradores pudiera ser eliminados por uno de ellos.
 Es poco complicado el entendimiento del programa por que tiene muchas funciones .
-Es obligatorio el uso de internet.
+
