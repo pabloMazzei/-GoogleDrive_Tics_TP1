@@ -1,0 +1,80 @@
+La verdad es que, tanto el Google Drive, como el Dropbox, son dos de las soluciones de almacenamiento
+en la nube más populares y por muy buenas razones. Sus conjuntos de características, precios y opciones de prueba gratuitas los convierten
+en algunas de las mejores ofertas de copia de seguridad en la nube.
+A continuacion haremos un repaso y comparativa de las caracteristicas de cada una de las ofertas de almacenamiento para ver cual es la 
+mejor, y comparar Drive con su mayor competencia, Dropbox.
+
+Almacenamiento gratuito
+
+Tanto Dropbox como Google Drive ofrecen espacio de almacenamiento gratuito para aquellos que deseen probar sus respectivos servicios
+antes de gastar algunos dólares al mes por un servicio más expansivo y permanente.
+Google Drive viene de serie con 15GB de espacio libre, que es mucho más que la oferta de almacenamiento gratuito inicial de Dropbox
+de solo 2GB.
+Aunque eso le da a Google una ventaja importante en esta sección, Dropbox ofrece varias formas de aumentar su almacenamiento gratuito.
+Las cuentas básicas (gratuitas) pueden ganar hasta 500MB adicionales de espacio de almacenamiento por cada amigo o miembro 
+de la familia referido al servicio.
+Si bien el espacio de almacenamiento gratuito adicional lleva a que Dropbox ofrezca más espacio libre que Google Drive, referir a varios 
+amigos no es una tarea sencilla, especialmente en el mundo de hoy, donde la mayoría de las personas que quieren almacenamiento en la nube
+ya lo tienen.
+Es bueno que Dropbox tenga esa opción, pero en última instancia, el almacenamiento gratuito de Google Drive es simplemente mejor.
+
+Punto para Drive
+
+ALMACENAMIENTO PREMIUM
+
+Tanto Google Drive como Dropbox ofrecen servicios de suscripción premium que brindan mucho más almacenamiento remoto para trabajar. La 
+pregunta es: ¿cuál tiene los mejores paquetes disponibles?
+
+Para usuarios personales, Dropbox tiene una estructura de precios muy simple para sus ofertas de almacenamiento premium.
+
+La cuenta “Plus” de Dropbox ofrece un terabyte de espacio de almacenamiento con la mayoría de las mismas características que las cuentas
+básicas y comerciales. Te costará $100 al año o $10 al mes. También existe la opción de una cuenta “Profesional”, que cuesta $20 y ofrece 
+la misma cantidad de espacio de almacenamiento que la cuenta Plus, pero con la función de “sincronización inteligente” de Dropbox y una
+característica exclusiva que actúa como un mini-sitio de portafolio y un extenso historial de versiones.
+Sin embargo, mientras las cuentas estándar están limitadas a 2TB de almacenamiento por $12.50 al mes, las cuentas avanzadas son
+esencialmente ilimitadas a “tanto espacio como sea necesario”. No obstante, son mucho más costosas, cuestan $20 por usuario al mes cuando
+se paga anualmente o $25 al de forma continua. El número mínimo de usuarios es tres.
+
+En comparación, Google ofrece un trío de opciones más allá de su cuenta gratuita. Una opción es de 100GB extra por $2 al mes,
+seguida de su opción “más popular” de $10 al mes, que viene con un terabyte de espacio. Para los usuarios intensivos, también hay una
+cuenta de 10TB, aunque supone un cargo mensual de $100.
+
+En este caso si bien hay mucha variedad entre los planes ofrecidos, votamos a favor de Drive ya que ofrece un plan economico y no 
+da el salto de almacenamiento y de precio como curre con Dropbox. Es decir que si por ejemplo una persona quisiera guardar sus fotos,
+con tan solo 2 dolares al mes podria hacerlo, y no deberia gastar 10 dolares, ahorrando dinero y dando mas posibilidad de eleccion.
+
+Punto para drive
+
+SOPORTE EXTERNO
+
+Google Drive puede guardar y almacenar rápidamente los archivos adjuntos de Gmail, las imágenes almacenadas con Google Photos y facilita
+la colaboración a través de Google Docs, Hojas de cálculo y Presentaciones.
+
+Chrome Web Store también tiene más de 100 apps de terceros compatibles para Google Drive, lo que brinda a la solución de almacenamiento
+en la nube mucho más potencial que algunos de sus competidores. Dropbox tiene algunas integraciones de servicio propias.
+
+Los usuarios personales pueden disfrutar de una asociación con Microsoft que permite que los documentos de Office se puedan abrir y 
+editar desde Dropbox, facilitando la colaboración. Los usuarios de Dropbox Business también pueden usar la visualización integrada de
+PDF y compartir con Adobe, y la mensajería en tiempo real a través de Slack. Su plataforma DBX también ayuda a integrarse con servicios 
+como Autodesk y Okta.
+
+También hay Dropbox Paper, que es útil para tomar notas.
+
+Sin embargo, por más fuerte que sea el soporte de servicio adicional de Dropbox, no puede superar a Google Drive.
+
+Punto para Drive
+
+Posibilidad de trabajar varios usuarios sobre el mismo documento
+
+Este punto es para mí, el que hace destacar claramente Google Drive sobre Dropbox.
+
+Aparte de los archivos habituales que se pueden compartir y que funcionan de manera idéntica en ambos programas, en Google Drive existen
+unos documentos especiales, los Google Docs.
+
+Éstos son parecidos a los de Microsoft Office ( Documento de texto de Google sería el equivalente de Word, Hoja de Calculo de Google
+sería el equivalente a Excel…), con la diferencia de que puede haber varias personas trabajando sobre él al mismo tiempo.
+
+¿Qué ventajas tiene poder trabajar sobre un mismo archivo?
+Con Google Drive y sus Google Docs, podrás hacer divisiones claras del trabajo con otras personas, verás lo que ellos llevan hecho
+para no solaparte y tendrás la posibilidad de revisar en tiempo real si van por buen camino.
+Y por supuesto dejarás de tener versiones de Informes tipo “Version 7.C Bueno 3- Definitivo- Para entrega”…
