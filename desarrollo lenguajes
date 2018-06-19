@@ -1,0 +1,7 @@
+El producto Google drive se ha desarrollado en dos partes:
+ parte del servidor: desarrollada en java.Lenguaje orientado a objetos, basado en clases, de proposito general , multiplataforma . 
+ fuertemente tipado
+
+ parte cliente: desarrollada en javascript . Javascript se define como Se define como orientado a objetos, basado en prototipos,
+ imperativo, débilmente tipado y dinámico.
+ 
