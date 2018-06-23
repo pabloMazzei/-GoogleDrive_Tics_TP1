@@ -1,0 +1,30 @@
+Google Drive es un servicio de alojamiento de archivos que fue introducido por la empresa estadounidense Google el 24 de abril de 2012.
+
+Es el reemplazo de Google Docs que ha cambiado su direccion URL, entre otras cualidades.
+
+Cada usuario cuenta con 15 gigabytes de espacio gratuito para almacenar sus archivos, ampliables mediante diferentes planes de pago. Es accesible a trav�s del sitio web desde computadoras y disponen de aplicaciones para Android e iOS que permiten editar documentos y hojas de c�lculo.2?
+
+Con el lanzamiento de Drive, Google unifico el almacenamiento disponible para un unico usuario de tal manera que en esos 15 GB se guardan tambi�n los mensajes de correo electr�nico de Gmail y las im�genes de Google+ que superen los 2048 � 2048 p�xeles.
+
+Icono de Google Drive.
+Para que la aplicacion de Google Drive sincronice archivos entre la computadora del usuario y su almacenamiento en la nube, el cliente debe estar abierto en la computadora del usuario. El cliente se comunica con Drive para que los cambios en un lado se reflejen en el otro y que as� siempre contengan los mismos archivos.
+
+El cliente de Google Drive esta disponible para los siguientes dispositivos: PC con Windows XP, Windows Vista, Windows 7 y Windows 8 que usen particiones NTFS, o Mac OS X 10.6 (Snow Leopard) o superior; telefonos inteligentes y tabletas con Android 2.1 (Eclair) o superior; iPhones y iPads con iOS 5.0 o superior. Ademas de estos sistemas, Sundar Pichai dijo que Google Drive estaria muy bien integrado con Chrome OS.
+
+Google ofrece 15 GB iniciales a todos los usuarios que se comparten entre tres de sus productos mas usados: Gmail, Google+ Fotos (Picasa) y Google Drive. Los usuarios pueden aumentar esos 15 GB mediante suscripcion mensual para disponer de mas almacenamiento. Es importante saber que los archivos alojados que usen los formatos nativos de Google Docs no cuentan en esos 15 GB al igual que las imagenes de Google+ Fotos menores que 2048  2048 pixeles y los videos que duren menos de 15 minutos.
+
+A 28 de enero de 2018 en Espania se pueden adquirir los siguientes planes de almacenamiento en forma de suscripcion mensual
+
+Almacenamiento	Precio
+15 GB	Gratuito
+100 GB	1,99 �/mes
+1 TB	9,99 �/mes
+2 TB	19,99 �/mes
+10 TB	99,99 �/mes
+20 TB	199.99 �/mes
+30 TB	299.99 �/mes
+Inicialmente Google Docs ofrece 1 GB de almacenamiento gratis, el 24 de abril de 2012 Google presenta Google Drive que ofrece 5 GB de almacenamiento gratis, ademas de presentar Drive, Google hizo otros cambios en el servicio incluyendo el aumento de capacidad gratis de Gmail de 7 GB a 10 GB.
+
+Originalmente Gmail, Google Docs y Picasa contaban por separado el almacenamiento gratuito de cada plataforma y el almacenamiento otorgado por estos planes se comparta. Poco a poco Google fue unificando el almacenamiento de los usuarios y actualmente todo el espacio es conjunto sea gratis o pagado.
+
+El 13 de marzo de 2017, Google cambio los precios de los planes otra vez reduciondolos en un drastico 80 %, resultando esto en precios mucho mas baratos que los de su competidor directo, Dropbox.
