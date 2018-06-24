@@ -1,1 +1,8 @@
 Al igual que Google Chorme, Drive esta programado en  C, Python y Assembly.
+
+Existen dos capas de  google drive :
+la cliente desarrollada en HTML,CSS y  JAVASCRIPT  principalmente 
+  jAVASCRIPT Se define como orientado a objetos,3​ basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+
+La parte servidor esta desarrollada principalmente con java   , sql  y monggo db
