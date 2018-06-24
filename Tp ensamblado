@@ -1,0 +1,58 @@
+  Google drive 
+ 
+
+introduccion  y   tipo de servicio
+ Google drive es basicamente un servicio de alojamiento de archivos creado  en 201 2 por Google.  El servicio abarca a  Gmail y  google Docs.
+ Google drive permite almacenar hasta 5GB de informacion de forma gratuita y ofrece planes pagos para 100 gigabytes, 1 terabyte, 2 terabytes, 10 terabytes, 20 terabytes  y 30 terabytes.
+  
+ 
+
+
+  Seguridad 
+El acceso seguro vía SSL(estandar de encriptado web) no está habilitado por defecto, pero existe la opción de acceder por HTTPS a Google Docs y trabajar de manera segura.
+La privacidad de documentos sensibles puede ser comprometida por el hecho de que mucha gente está autenticada en sus cuentas de Google de manera casi permanente (las cuentas Google se utilizan para la gran variedad de servicios ofrecidos por Google como correo electrónico, calendario, etcétera). A pesar de que este login unificado tiene claras ventajas, representa un potencial riesgo para la seguridad mientras el acceso a Google Docs no requiera comprobación de contraseña.
+ Los terminos del ofrecimiento del servicio otorgan amplios poderes a Goole para usar la informacion almacenada para  trabajos deribados.
+
+
+Escalabilidad y evolución 
+Google Docs se originó de dos productos separados, Writely y Google Spreadsheets. Writely era un procesador de texto individual en red creado por la compañía de software Upstartle, el cual fue lanzado en agosto de 2005. Sus características originales incluían un sitio para la edición de textos en colaboración, además de controles para su acceso. Los menús, los atajos en el teclado y los cuadros de diálogo eran presentados de una manera muy similar a la que los usuarios suelen esperar en un procesador de texto tradicional, como OpenOffice.org o Microsoft Office.
+Google desarrolló Google Spreadsheets introduciendo muchas de las caracteristicas encontradas hoy en Google Docs.  
+
+En abril de 2012, Google Docs cambió su denominación por Google Drive. Cada usuario cuenta con 15 GB de memoria gratuitos para almacenar sus archivos (un aumento importante para los 1 GB previos de Google Docs), ampliables mediante pago. Está disponible para computadoras y portátiles Mac, Android, iPhone y iPad.
+
+Con el lanzamiento de Google Drive, Google aumentó el espacio de almacenamiento de Gmail a 10 GB; hoy en día dicho espacio está unificado a 15 GB y se comparte entre los dos servicios a libre elección del usuario.
+
+Las novedades destacadas en su lanzamiento fueron:
+
+Ampliación del almacenamiento gratuito de 1 GB a 5 GB, y posteriormente 15 GB.
+Capacidad de sincronizar archivos y documentos con el ordenador, y visualización mejorada de documentos de Google fuera de línea.
+Cambios en la barra lateral de navegación.
+Frente al anterior sistema de visualización fuera de línea denominado «Google Docs Sin Conexión», el nuevo sistema de Google Drive permite mover y eliminar documentos de Google sin estar conectado a Internet. Al conectarse, Google Drive refleja estos cambios en la nube. Incluso es posible recuperar documentos Google de la papelera de la PC.
+
+El sistema de sincronización de archivos permite al usuario:
+
+Editar sus archivos en el ordenador y tenerlos disponibles en la nube.
+Contar con respaldo automático.
+Contar con un control de versiones, pudiendo acceder a versiones anteriores de un archivo después de ser modificado.
+Realizar subidas o bajadas masivas de archivos, respetando la estructura de carpetas.
+
+
+
+ 
+ 
+   
+ Ventajas sobre la competencia
+- Concede una capacidad maxima de almacenamiento de  30 TB  
+ - Concede gratuitamente  15 GB de espacio
+ - provee aplicaciones  para windows ,  macs y android con caracteristicas de offline como la de poseer copias de seguridad locales y accesos rapidos a archivos atravez de estas.   
+ - cuenta con un sistema de control  de versionado  que permite trabajar de manera colaborativa sobre un  mismo archivo  sincronizando los cambios y manteniendo copias de seguridad 
+
+Desventajas
+ - Apesar de todo  Google Drive no se encuentra excenta de lags y colapsos.   Notables downtimes ocurrrieron en  marso de  2013, octubre 2014, enero 2016, y septiembre de  2017  .
+ - Los terminos del servicio otorgan amplios poderes a Goole para usar la informacion almacenada 
+ - El  perfil de seguridad de GoogleDrive no es recomendable para informacion sencible.
+      
+
+ lenguaje de programacion
+
+
