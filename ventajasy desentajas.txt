@@ -11,3 +11,5 @@ El usuario no es seguro si no creas una buena contraseña para protegerlo.
 Si el documento tienen varios editores o colaboradores pudiera ser eliminados por uno de ellos.
 Es poco complicado el entendimiento del programa por que tiene muchas funciones .
 Es obligatorio el uso de internet.
+El contrato de google otorga amplios poderes a la empresa para emplear la informacion almacenada
+No cuenta con el estandar encriptado por defecto ni tampoco https por lo que no resulta apropiado para informacion sensible
